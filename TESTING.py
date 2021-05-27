@@ -1,1 +1,1 @@
-input("yayayaya")
+print("yayaya")
